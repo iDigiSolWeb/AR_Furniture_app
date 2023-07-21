@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038862380479",
+    "project_id": "arfurniture-ad41c",
+    "storage_bucket": "arfurniture-ad41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038862380479:android:d67d410cd56663f9ff050a",
+        "android_client_info": {
+          "package_name": "com.ar_outdoor_furniture.ar_outdoor_furniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038862380479-l0m8khjrk16dk1o4hrh19m1osa4ldimr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwWxhC9xgqkLrUn5HrWRyCibdMUGcurQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038862380479-l0m8khjrk16dk1o4hrh19m1osa4ldimr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
