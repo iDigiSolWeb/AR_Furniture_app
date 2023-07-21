@@ -49,6 +49,7 @@ class DefaultFirebaseOptions {
     }
   }
 
+    ///TODO SET UP OWN FIREBASE PROJECT
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
     appId: '1:1038862380479:android:d67d410cd56663f9ff050a',
@@ -57,6 +58,7 @@ class DefaultFirebaseOptions {
     storageBucket: 'arfurniture-ad41c.appspot.com',
   );
 
+    ///TODO SET UP OWN FIREBASE PROJECT
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '',
     appId: '1:1038862380479:ios:35c48a57ef2279ebff050a',
