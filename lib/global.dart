@@ -1,1 +1,2 @@
-String apikeyRemoveBG = 'CwV5rCKn2oBeu2ARcVdj8PJF'; // www.remove.bg website
+///TODO GET YOUR OWN API KEY
+String apikeyRemoveBG = ''; // www.remove.bg website to get your own key
